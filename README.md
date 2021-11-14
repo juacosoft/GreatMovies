@@ -89,9 +89,9 @@ interface MovileDao contendria las sentencias SQLite pertinentes para: insercion
 * Archivo de configuracion de api_key  y url util.Constants</br>
 * Any modifications needed to be made to files/folders</br>
 
-### Apk de prueba
+### Descargar Apk de prueba
 
-* repo -> app\build\outputs\apk
+* https://drive.google.com/file/d/1SPdhAI8dLz1T9aBALXrLr_C6TiEYtOcO/view?usp=sharing
 
 
 
